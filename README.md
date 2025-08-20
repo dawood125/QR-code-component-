@@ -21,7 +21,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: http://127.0.0.1:5501/index.html
-- Live Site URL: [Add your live site URL here]
+- Live Site URL: https://blog-card-tau.vercel.app/
 
 ## My process
 
